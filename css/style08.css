@@ -1,0 +1,151 @@
+.box {
+    height: 217px;
+    width: 100%;
+
+
+}
+
+.box1,
+.box2,
+.box3 {
+    border: black solid 1px;
+    
+}
+
+
+.headerbx{border: black 1px solid; height: 50%;
+display: inline-flex;
+width: 100%;
+background-color: yellow;}
+
+.headerbluebx{
+    margin-top: 10px;
+    width: 50%;
+    height: 80%;
+    display: flex;
+    
+    }
+    
+
+
+.bluebx{border: black solid 1px;
+    background-color: blue;
+    margin-top: 20px;
+    margin-left: 10px;
+    display: flex;
+    width: 10%;
+    height: 50%;
+}
+.loggin{
+height: 80%;
+width: 50%;
+margin-top:  10px;
+}
+
+.logginbttn{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-left: 80%;
+    font-size: 20px;
+    margin-right: 10px;
+    
+    
+}
+
+
+
+
+.box2 {
+    background-color: gray;
+
+    text-align: center;
+    flex-basis: 20%;
+
+
+
+
+
+
+
+}
+
+.box3 {
+    background-color: aqua;
+    margin-top: 30px;
+}
+
+.contenedor {
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-between;
+    margin-top: 30px;
+
+
+
+
+
+}
+
+.boxflex {
+    border: 1px rgb(0, 0, 0) solid;
+
+
+
+    background-color: rgb(9, 198, 251);
+
+    flex-basis: 75%;
+
+
+
+}
+
+.cbox {
+    display: inline-flex;
+    width: 100%;
+    height: 50px;
+
+    margin-top: 30px;
+    justify-content: space-between;
+    flex-basis: 30%;
+
+
+}
+
+.c1box {
+    display: inline-flex;
+
+    flex-direction: row-reverse;
+    width: 50%;
+    height: 50px;
+
+    justify-content: space-around;
+    margin-left: 10%;
+    
+
+}
+
+
+.c2box {
+    display: inline-flex;
+
+    flex-direction: row-reverse;
+    width: 50%;
+    height: 50px;
+
+    justify-content: space-around;
+    margin-right: 10%;
+
+
+
+
+}
+
+.cbox1,
+.cbox2,
+.cbox3,
+.cbox4 {
+    background-color: pink;
+    border: black solid 1px;
+
+}

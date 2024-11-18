@@ -1,0 +1,26 @@
+.box {
+    border: 1px solid;
+    height: 235px;
+    display: inline-block;
+    width: 100%;
+
+
+}
+
+
+.box1 {
+    background-color: yellow;
+
+}
+
+.box2 {
+    background-color: gray;
+    margin-top: 30px;
+    text-align: center;
+
+}
+
+.box3 {
+    background-color: aqua;
+    margin-top: 30px;
+}

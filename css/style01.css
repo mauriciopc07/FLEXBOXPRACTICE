@@ -1,0 +1,19 @@
+.box {
+    border: 1px solid;
+    height: 235px;
+
+}
+
+
+.box1 {
+    background-color: yellow;
+
+}
+
+.box2 {
+    background-color: gray;
+}
+
+.box3 {
+    background-color: aqua;
+}

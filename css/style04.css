@@ -1,0 +1,58 @@
+.box {
+    border: 1px black solid;
+    height: 217px;
+    width: 100%;
+    
+}
+
+
+.box1 {
+    background-color: yellow;
+    
+
+}
+
+.box2 {
+    background-color: gray;
+    margin-top: 30px;
+    text-align: center;
+    flex-basis: 20%;
+    
+    
+
+
+
+
+
+}
+
+.box3 {
+    background-color: aqua;
+    margin-top: 30px;
+}
+
+.contenedor {
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-between;
+    
+   
+    
+
+
+
+}
+
+.boxflex{
+    border: 1px rgb(0, 0, 0) solid;
+
+    
+
+    background-color: rgb(9, 198, 251);
+    margin-top: 30px;
+    flex-basis: 75%;
+    
+    
+
+}
+

@@ -1,0 +1,74 @@
+.box {
+    height: 217px;
+    width: 100%;
+    
+    
+}
+
+.box1,.box2,.box3{border: black solid 1px;}
+
+
+.box1 {
+    background-color: yellow;
+    height: 50%;
+    
+
+}
+
+.box2 {
+    background-color: gray;
+    
+    text-align: center;
+    flex-basis: 20%;
+    
+    
+
+
+
+
+
+}
+
+.box3 {
+    background-color: aqua;
+    margin-top: 30px;
+}
+
+.contenedor {
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-between;
+    margin-top: 30px;
+   
+    
+
+
+
+}
+
+.boxflex{
+    border: 1px rgb(0, 0, 0) solid;
+
+    
+
+    background-color: rgb(9, 198, 251);
+   
+    flex-basis: 75%;
+    
+    
+
+}
+
+.cbox{
+display:inline-flex;
+width: 60%;
+height: 50px;
+justify-content: space-between;
+flex-basis: 20%;
+margin-top: 30px;
+
+}
+
+.cbox1,.cbox2,.cbox3,.cbox4{background-color: pink;
+border: black solid 1px;
+}
